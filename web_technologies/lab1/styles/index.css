@@ -1,0 +1,68 @@
+#menu{
+  font-size: 1.3rem;
+  background-color: #000;
+  color:white;
+  float:left;
+  padding:5px;
+  border: solid white;
+}
+
+#menu ul{
+  list-style: none;
+  padding:0;
+  margin:0;
+  float:left;
+  background-color: #000;
+}
+
+#menu a{
+  text-decoration:none;
+  text-decoration-line: underline;
+  color:white;
+}
+
+.clear{
+clear: both;
+}
+
+ #header{
+   color:red;
+   background-image: url("../img/kv2.jpg");
+   /*background-image: url("http://lamcdn.net/furfurmag.ru/post_image-image/Fvc4gDLkafNtpc-GdJA39w-article.jpg");
+  */ background-size: contain;
+   height: 160px;
+ }
+
+ p{
+   background:#000;
+   font-size:1.3rem;
+   padding: 10px;
+   color: white;
+ }
+
+ol li{
+  margin: 10px;
+  padding: 10px;
+  font-size: 1.3rem;
+  color:white;
+}
+
+ol li:nth-child(odd){
+  color:white;
+}
+
+ol li span{
+color:red;
+}
+
+body{
+  background: #000;
+}
+
+p img{
+  margin-right: 10px;
+}
+
+table tr td{
+  padding: 10px;
+}
