@@ -1,0 +1,412 @@
+<!HTML>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="..\styles/index.css">
+    <title>Тарантино</title>
+  </head>
+  <body>
+    <div id="header">
+      <div id="menu">
+        <a href="..\index.html">Главная</a>
+      </div>
+      <h1 style = "text-align:center; font-size: 3rem;">Фильмография</h1>
+      <div class = "clear">
+      </div>
+    </div>
+    <table border = 1 style = "color:#FFF;">
+      <tr>
+        <th>Год</th>
+        <th>Название</th>
+        <th>Награда</th>
+        <th>Категория</th>
+        <th>Результат</th>
+      </tr>
+      <tr>
+        <td>1987</td>
+        <td>День рождения моего лучшего друга</td>
+        <td style="text-align:center;">-</td>
+        <td style="text-align:center;">-</td>
+        <td style="text-align:center;">-</td>
+      </tr>
+      <tr>
+        <td rowspan="6">1992</td>
+        <td rowspan="6">Бешеные псы</td>
+        <td rowspan="2"> Премия «Мария» «Международного Кинофестиваля в Каталонии»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Кинофестиваль в Торонто»</td>
+        <td>«Приз ФИПРЕССИ (Приз международных критиков)»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Независимый дух»</td>
+        <td>«Лучший дебютный фильм»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>Кинофестиваль «Сандэнс»</td>
+        <td>«Драматический фильм»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="14">1994</td>
+        <td rowspan="14">«Криминальное чтиво»</td>
+        <td rowspan="2">«Оскар»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Золотой глобус»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="3">BAFTA</td>
+        <td>«Лучший фильм»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Каннский кинофестиваль»</td>
+        <td>«Золотая пальмовая ветвь за лучший фильм»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Сезар»</td>
+        <td>«Лучший фильм на иностранном языке»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Давид ди Донателло»</td>
+        <td>«Лучший иностранный фильм»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Премия Эдгара Аллана По»</td>
+        <td>«Лучший фильм»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Национальный совет кинокритиков США»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Независимый дух»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>1995</td>
+        <td>Четыре комнаты</td>
+        <td style="text-align:center;">-</td>
+        <td style="text-align:center;">-</td>
+        <td style="text-align:center;">-</td>
+      </tr>
+      <tr>
+        <td>1998</td>
+        <td>Джеки Браун</td>
+        <td>«Берлинский кинофестиваль»</td>
+        <td>«Золотой медведь за лучший фильм»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="3">2003</td>
+        <td rowspan="3">Убить Билла. Фильм 1</td>
+        <td rowspan="2">«Сатурн»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Спутник»</td>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="4">2004</td>
+        <td rowspan="4">Убить Билла. Фильм 2</td>
+        <td>«Грэмми»</td>
+        <td>	«Лучший саундтрек»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Сатурн»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>Приз Европейской киноакадемии</td>
+        <td>Приз Screen International Award</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>2005</td>
+        <td>Город грехов</td>
+        <td style="text-align:center;">-</td>
+        <td style="text-align:center;">-</td>
+        <td style="text-align:center;">-</td>
+      </tr>
+      <tr>
+        <td>2005</td>
+        <td>Опасность из могилы</td>
+        <td style="text-align:center;">-</td>
+        <td style="text-align:center;">-</td>
+        <td style="text-align:center;">-</td>
+      </tr>
+      <tr>
+        <td>2007</td>
+        <td>Доказательство смерти</td>
+        <td>«Каннский кинофестиваль»</td>
+        <td>«Золотая пальмовая ветвь за лучший фильм»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="12">2009</td>
+        <td rowspan="12">Бесславные ублюдки</td>
+        <td rowspan="2">«Оскар»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Золотой глобус»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="2">BAFTA</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Выбор критиков»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Сатурн»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Каннский кинофестиваль»</td>
+        <td>«Золотая пальмовая ветвь за лучший фильм»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Премия Гильдии режиссёров США»</td>
+        <td>«Лучший режиссёр полнометражного фильма»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="8">2012</td>
+        <td rowspan="8">Джанго освобождённый</td>
+        <td>«Оскар»</td>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Золотой глобус»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="2">BAFTA</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Выбор критиков»</td>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Сатурн»</td>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>Голливудская кинопремия</td>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="4">2015</td>
+        <td rowspan="4">Омерзительная восьмёрка</td>
+        <td>«Золотой глобус»</td>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>BAFTA</td>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Выбор критиков»</td>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>Национальный совет кинокритиков США</td>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="19">2019</td>
+        <td rowspan="19">Однажды в… Голливуде</td>
+        <td rowspan="3">«Оскар»</td>
+        <td>«Лучший фильм»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Золотой глобус»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="3">BAFTA</td>
+        <td>«Лучший фильм»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Выбор критиков»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td rowspan="2">«Спутник»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Лучший оригинальный сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td rowspan="2">AACTA</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Лучший сценарий»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Премия Гильдии режиссёров США»</td>
+        <td>«Лучший режиссёр полнометражного фильма»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Национальный совет кинокритиков США»</td>
+        <td>«Лучший режиссёр»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+      <tr>
+        <td>«Сезар»</td>
+        <td>«Лучший иностранный фильм»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Каннский кинофестиваль»</td>
+        <td>«Золотая пальмовая ветвь за лучший фильм»</td>
+        <td style = "background:red;">Номинация</td>
+      </tr>
+      <tr>
+        <td>«Сатурн»</td>
+        <td>«Лучший фэнтези-фильм»</td>
+        <td style = "background:green;">Победа</td>
+      </tr>
+    </table>
+</body>
