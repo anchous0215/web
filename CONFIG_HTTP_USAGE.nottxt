@@ -1,0 +1,55 @@
+http://schemas.microsoft.com
+http://totally/normal/site.pay //httphaa00
+http://localhost/is/almost.ok //httphaa01
+https://always/use/https/please/
+
+# see http://www.java.com/en/download/help/error_hotspot.xml
+#http://www.java.com/en/download/help/error_hotspot.xml
+#see http://localhost/is/almost.ok
+
+// http://example.com
+//http://example.com
+
+* http://example.com
+*http://example.com
+
+; http://example.com
+;http://example.com
+
+# http://example.com
+#http://example.com
+
+% http://example.com
+%http://example.com
+
+/* http://example.com */
+/* text http://exanple.com text */
+
+/*
+comment
+connect to http://example.com
+comment
+*/
+
+/*
+* comment
+* connect to http://example.com
+* comment
+*/
+
+/**
+  * version
+  *
+  * @homapage http://example.com
+  */
+
+string link = "http://exanple.com"; //httphaa00
+*int mass;
+
+<-- text http://example.com text-->
+
+<--
+text
+connect to http://example.com
+text
+-->
