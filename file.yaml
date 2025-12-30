@@ -1,0 +1,8 @@
+some_field:
+  - name: dataToken
+    in: query
+
+invalid_token:
+  revoked: "The access token was revoked"
+revoke:
+  unauthorized: "You are not authrized to revoke this token"
